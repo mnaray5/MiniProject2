@@ -3,4 +3,15 @@ h1 {
 }
 p {
     color:darkslateblue;
+    font-size: 20px;
+}
+
+body{
+    margin-left: 30px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+a{
+    font-size: 20px;
 }
